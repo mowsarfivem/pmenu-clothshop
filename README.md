@@ -13,7 +13,7 @@ Framework: PMenu,
 Langage: Lua
 
 Vidéo:
-https://youtu.be/VUlSEYd2gbQ
+https://www.youtube.com/watch?v=1H8PYFNTiNk&t=9s
 
 # English
 
@@ -30,4 +30,4 @@ Framework: PMenu,
 Language: Lua
 
 Video:
-https://youtu.be/VUlSEYd2gbQ
+https://www.youtube.com/watch?v=1H8PYFNTiNk&t=9s
