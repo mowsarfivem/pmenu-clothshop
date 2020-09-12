@@ -12,6 +12,10 @@ Discord: jaja#1234,
 Framework: PMenu,
 Langage: Lua
 
+Vidéo:
+
+https://youtu.be/VUlSEYd2gbQ
+
 # English
 
 Hello,
@@ -25,3 +29,7 @@ Author: Jamsou,
 Discord: jaja#1234,
 Framework: PMenu,
 Language: Lua
+
+Screen:
+
+https://youtu.be/VUlSEYd2gbQ
