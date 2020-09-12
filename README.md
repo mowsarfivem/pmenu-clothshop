@@ -3,7 +3,7 @@
 Bonjour,
 Je vous partage mon script de Magasin de vêtements compatible avec les "PED".
 
-UN BARBER SHOP EST RAJOUTER EN PLUS
+UN BARBER SHOP EST RAJOUTER EN PLUS !
 
 Informations:
 
@@ -21,7 +21,7 @@ https://youtu.be/VUlSEYd2gbQ
 Hello,
 I'm sharing my clothing store script with the "PED".
 
-A BARBER SHOP IS ADDED IN ADDITION
+A BARBER SHOP IS ADDED IN ADDITION !
 
 Information:
 
