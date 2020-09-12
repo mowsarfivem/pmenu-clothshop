@@ -7,12 +7,10 @@ UN BARBER SHOP EST RAJOUTER EN PLUS
 
 Informations:
 
-Auteur: Jamsou
-Discord: jaja#1234
-Framework: PMenu
+Auteur: Jamsou,
+Discord: jaja#1234,
+Framework: PMenu,
 Langage: Lua
-
-# ----------------------------------------------------- #
 
 # English
 
@@ -23,7 +21,7 @@ A BARBER SHOP IS ADDED IN ADDITION
 
 Information:
 
-Author: Jamsou
-Discord: jaja#1234
-Framework: PMenu
+Author: Jamsou,
+Discord: jaja#1234,
+Framework: PMenu,
 Language: Lua
