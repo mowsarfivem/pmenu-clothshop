@@ -13,7 +13,6 @@ Framework: PMenu,
 Langage: Lua
 
 Vidéo:
-
 https://youtu.be/VUlSEYd2gbQ
 
 # English
@@ -30,6 +29,5 @@ Discord: jaja#1234,
 Framework: PMenu,
 Language: Lua
 
-Screen:
-
+Video:
 https://youtu.be/VUlSEYd2gbQ
